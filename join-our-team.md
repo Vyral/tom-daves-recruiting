@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Sacramento Careers
 permalink: /join-our-team/
 ---
 
@@ -15,39 +15,59 @@ permalink: /join-our-team/
 </div>
 
 
-<p>Dear Real Estate Agent,</p>
+<p>Dear Real Estate Agent:</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand that you may be working at a real estate brokerage or are a new agent looking to jumpstart your career. You understand your potential and are working hard to clear a path toward your goals, but currently lack the support you need to achieve them.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Many brokerages promise to provide structure, coaching, and other resources, but fail to make good on their word once they’ve drawn you in. As a result of this and other factors, 87% of all new agents leave the industry all together within their first year.</p>
+
+<p>The reason so many agents drop out of the business is simple: They don’t know what they’re doing. And this often isn’t their fault. It’s an unfortunate truth of our industry that the majority of brokerages out there don’t properly educate or equip their agents.</p>
+
+<p>Even the most hardworking agent won’t get anywhere if they aren’t headed in the right direction to begin with.</p>
+
+<p>It’s time to stop chasing dead ends and shiny objects. It’s time to forge your own path to success.</p>
+
+<p>My name is Tom Daves and I have been in the real estate business for over 35 years. I’ve sold over 7,000 homes and $1 billion worth of real estate. I’ve seen anything and everything that the industry can throw at me. I want to leverage this knowledge and use it to guide you toward future success.</p>
+
+<p>I’ve seen people rack up tens of thousands of dollars in credit card debt, waste time and money on useless activities, and even go bankrupt as a result of their failed attempts to succeed in real estate. These people lay awake at night wondering if entering the industry was a mistake—questioning whether they should just cut their losses and fall back into a regular 9-to-5 job. They’ve simply lost hope.</p>
+
+<p>If this sounds familiar, then consider this message your lifeline.</p>
+
+<p>I want to help you solve your problems by teaching you our systems and tools. I’m confident that my knowledge and leadership experience in this business is the perfect solution to your real estate struggles.</p>
+
+<p>With that said, we don’t expect you to have all the answers. We want to set you up with the tools you need to succeed. In addition to my personal experience in the industry, I have leveraged my exposure to various other brokerages and top vendors to create training resources that teach agents like you everything you need to know to succeed. We’re offering:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>One-on-one coaching with me</li>
+<li>Access to our state-of-the-art CRM</li>
+<li>A customer care and support manager</li>
+<li>Your own website</li>
+<li>Access to a Mojo dialer</li>
+<li>Video email marketing</li>
+<li>Desk space</li>
+<li>Checklists, scripts, and systems</li>
+<li>Marketing coordination</li>
+<li>Presentation materials</li>
+<li>Team support and collaboration</li>
+<li>A strong reputation and strength of a successful team</li>
+<li>Leads</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>In addition to all of this, you’ll be able to utilize all of the wonderful new tools that eXp has so you can get off of the real estate roller coaster and get on the right track to profitability. </p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>Our systems truly work, but don’t just take my word for it. Consider the story of Seth. He joined us about a year ago after working in construction. Since then, he has been able to leverage our systems and guidance to close over $10 million dollars in volume in just his first year. Then there’s Jason. He was working at a car wash eight months ago, but has already closed 12 deals on our team.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>Their success stories are incredible, and now it’s time for you to start writing your own.</p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>After all, the choice is in your hands. You can stay struggling where you’re at, join a big box brokerage where you’ll get no support, or even quit the industry altogether and go get started working at a 9-to-5 job—or you can join Tom Daves Real Estate and start leading the life you deserve.</p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>Our support-oriented environment helps professionals learn, grow, and thrive. The onboarding process starts right away with our 30-day bootcamp. People join us because they want to succeed, make money, and serve our community. We understand that to reach those goals, you need support, coaching, resources, and leads—so that is exactly what we provide. In fact, I guarantee that if you follow our systems and training, you’ll be earning $80,000 within your first year, or we’ll pay the difference.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>So what are you waiting for? It’s time to take control of your future and see firsthand how joining us can transform your life and career. The longer you wait to reach out, the longer you’re suppressing your true potential. You need to take your business to the next level, but you need to put a business plan in place that’s sustainable for you to unlock your life by design. Let’s have a conversation today.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>I look forward to talking to you soon!</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>Tom Daves</p>
 
-<p>Let’s help you grow your business.</p>
-
-<p>{{site.data.settings.client.name}}</p>
 
 
 
