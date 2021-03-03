@@ -9,7 +9,7 @@ custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: http://tomdaves.eventbrite.com/
+    url: 'http://tomdaves.eventbrite.com/'
   - title: Free Strategy Call
     url: /strategy-call/
 client:
@@ -27,7 +27,7 @@ client:
   market: Sacramento
   brand: Tom Daves Team
   brokerage:
-  address: '1478 Stone Point Suite 450<br>Roseville, CA 95661'
+  address: '5701 Lonetree Blvd, Suite 321<br>Rocklin, CA 95765'
   phone: 916-296-5841
   phone_type:
   phone2:
