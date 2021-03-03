@@ -33,7 +33,7 @@ client:
   phone2:
   phone2_type:
   email: tom@tomdavesteam.com
-  url: 'https://tdaves.com/'
+  url: 'https://tdaves.com'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Build Your Real Estate Career?
